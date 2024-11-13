@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "emanuel",
+    "slug": "emanuel",
+    "version": "1.0.0",
+    "plugins": ["expo-sqlite"],
+    "newArchEnabled": true
+  }
+}
